@@ -55,5 +55,5 @@
 
 # Conclusion
 Resume Expert is designed to bridge the gap between job seekers and their ideal roles by leveraging AI to provide intelligent, personalized resume feedback. As AI continues to shape the future of recruitment in 2025, tools like this become invaluable in enhancing candidate visibility and success in an increasingly competitive job market.
-
+# 
 Created by Nadir
