@@ -1,5 +1,5 @@
 # Resume Expert: Gemini LLM
-- Project Overview
+# Project Overview
  - The job application process remains a challenging journey, especially when candidates receive rejections without any feedback. A resume is the first impression we make on recruiters, and understanding its alignment with job roles is crucial. Motivated by this common frustration, I developed Resume Expert—a smart application powered by Google's Generative AI (Gemini) that offers personalized resume feedback and highlights missing keywords relevant to the job description.
 
 # Objectives
@@ -55,3 +55,5 @@
 
 # Conclusion
 Resume Expert is designed to bridge the gap between job seekers and their ideal roles by leveraging AI to provide intelligent, personalized resume feedback. As AI continues to shape the future of recruitment in 2025, tools like this become invaluable in enhancing candidate visibility and success in an increasingly competitive job market.
+
+Created by Nadir
